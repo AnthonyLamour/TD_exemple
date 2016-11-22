@@ -5,7 +5,7 @@ uses crt;
 //algo convertir un nombre entier en nombre binaire avec des divisions euclidiennes
 //BUT convertir uun nombre entier entrer par l'utilisateur en nombre binaire en utilisant les divisions euclidiennes
 //ENTRER un nombre
-//SORTIE le nombre en binaire blalba
+//SORTIE le nombre en binaire blalbab
 //
 //VAR
 //		dividande,reste,quotient:entier
